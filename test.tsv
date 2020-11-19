@@ -1,4 +1,4 @@
-diagnosis	radius_mean	texture_mean	perimeter_mean	area_mean	smoothness_mean	compactness_mean	concavity_mean	concave points_mean	symmetry_mean	fractal_dimension_mean
+diagnosis	radius_mean	texture_mean	perimeter_mean	area_mean	smoothness_mean	compactness_mean	concavity_mean	concave_points_mean	symmetry_mean	fractal_dimension_mean
 1	12.47	18.6	81.09	481.9	0.09965	0.1058	0.08005	0.03821	0.1925	0.06373
 0	18.94	21.31	123.6	1130.0	0.09009	0.1029	0.108	0.07951	0.1582	0.05461
 0	15.46	19.48	101.7	748.9	0.1092	0.1223	0.1466	0.08087	0.1931	0.05796
